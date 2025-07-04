@@ -25,8 +25,9 @@ This chatbot gives beginner-friendly cryptocurrency advice based on two key crit
 
 | Example | Screenshot |
 |--------|------------|
-| Chatbot Running | ![screenshot1](screenshot1.png) |
-| Advising User | ![screenshot2](screenshot2.png) |
+| Chatbot Running | ![screen<img width="953" alt="Capture" src="https://github.com/user-attachments/assets/dbb2eb67-4bba-4dd5-8713-3e173f1b5524" />|
+| Advising User <img width="956" alt="Capture1" src="https://github.com/user-attachments/assets/30617edc-8c4f-44ad-b9b1-1b393f1c6aa0" />
+
 
 
 ## 📂 Files Included
